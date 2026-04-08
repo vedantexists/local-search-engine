@@ -19,3 +19,7 @@ Unlike a basic grep-style search, this engine uses a two-phase process:
 ### Prerequisites
 * **JDK 17** or higher.
 * Any standard IDE (IntelliJ, Eclipse, or VS Code).
+### Installation & Execution
+1. **Clone the repository:**
+   ```bash
+   git clone: https://github.com/vedantexists/local-search-engine.git
